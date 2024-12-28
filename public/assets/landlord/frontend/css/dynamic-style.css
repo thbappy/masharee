@@ -1,0 +1,5 @@
+body {
+  position: relative !important;
+  overflow-x: hidden !important;
+  touch-action: manipulation !important;
+}
